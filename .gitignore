@@ -1,0 +1,4 @@
+tb_logs/
+wandb/
+saved_models/
+cpc_transformer
